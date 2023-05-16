@@ -1,0 +1,9 @@
+from tkinter
+from tkinter import *
+form textbolb import textbolb
+
+top=Tk()
+top.title("Spelling Checker")
+top.geometry("700x400")
+
+top.mainloop()
